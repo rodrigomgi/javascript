@@ -1,0 +1,25 @@
+ Operador de comparação
+
+ igual ( == ) - Verificar se os valores são igais.
+ identico ( == ) - Verificar se os valores comparados são iguais 
+ e do msm tipo.
+ Diferente ( != ) Verifique se os valores camoarados são diferentes.
+ Não identico (!== ) Verifica se os valores são diferentes e tipos
+ também.
+ Menor ( < ) - Verifiqca se o valor esquerdo é menor que o valor da 
+ direita.
+ Maior ( > )- Verifica se o valor da esquerda é menor ou 
+ igaual da direita.
+
+ Menor ou igaul ( <- ) Verificar se o valor da esquerda é menor ou 
+ igual o da direita. 
+
+ Maior ou igaul ( >= ) - Verifiqcar se o valor da esquerda é menor ou
+ igual o da direira.
+
+E ( && ) - Verdadeiro se todas as expressões forem verdadeiras. 
+OU ( || ) - Verdadeiro se pelo menos uma das expresso~es forem 
+verdadeiras.
+
+Negação ( ! ) - Inverte o resultado da expressão de comparação. 
+ 

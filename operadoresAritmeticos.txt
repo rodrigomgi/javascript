@@ -1,0 +1,7 @@
+Adiçaõ ( + )
+Subtrair ( - )
+Maultiplicar ( * )
+Divisão( / )
+Módulo ( % )
+Icremento ( ++ )
+Decremento ( -- )
