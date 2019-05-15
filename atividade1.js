@@ -1,6 +1,15 @@
+//  QUESTAO 1
+// C)
+
+// QUESTAO 2
+// B)
+
+// QUESTAO 3
+// B)
+
 // QUESTAO 4
 //“Olá "João", analisei suas preferências e estou vendo que sua
-//or preferida é "verde", seu prato preferido é "macarrão" e
+//cor preferida é "verde", seu prato preferido é "macarrão" e
 //que você gosta de ouvir "mpb", agora que já sei de tudo isso,
 //selecionar as melhores notícias para você ler hoje!” 
 
