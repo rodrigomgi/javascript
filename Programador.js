@@ -6,7 +6,7 @@ class Programador extends Funcionario {
 
     calcularSalario(){
         super.calcularSalario();
-        this.total = this.total
+        this.total = this.total + 300;
     }
 }
 

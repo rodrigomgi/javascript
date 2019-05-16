@@ -194,4 +194,4 @@ class Funcionario {
         console.log(`Saçario Base:${this.total}`);
     }
 }
-module.exports = funsionario;
+//module.exports = Funcionario;
